@@ -1,0 +1,9 @@
+[package]
+name = "constraint-dynamics-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Constraint dynamics — how constraints shape agent behavior over time"
+license = "MIT"
+repository = "https://github.com/SuperInstance/constraint-dynamics-rs"
+
+[dependencies]
